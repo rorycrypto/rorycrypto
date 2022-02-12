@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Rory
+- 👀 I’m interested in all things crypto related.
+- 🌱 I’m currently learning Rust and Kubernetes.
+- 💞️ I’m looking to collaborate on blockchain projects.
+- 📫 Reach me at rorybaxter59@hotmail.com
